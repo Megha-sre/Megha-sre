@@ -1,110 +1,158 @@
-<!-- Animated wave header — this one is reliable -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:3fb950&height=130&section=header&text=Hi%2C%20I'm%20Dinesh%20👋&fontColor=e6edf3&fontSize=32&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<!-- Typing animation — very reliable service -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3FB950&center=true&width=520&lines=Systems+Operations+%E2%86%92+DevOps+Engineer;Building+infra+with+Terraform+%2B+Ansible;AWS+Certified+%7C+Open+to+DevOps+roles+%F0%9F%91%8B" alt="Typing SVG"/>
-</p>
+````markdown
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:3fb950&height=130&section=header&text=Hi%2C%20I'm%20Meghana%20👋&fontColor=e6edf3&fontSize=32&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <a href="https://dineshdi.dev"><img src="https://img.shields.io/badge/Portfolio-dineshdi.dev-58a6ff?style=flat&logo=safari&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-3fb950?style=flat"/>&nbsp;
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3FB950&center=true&width=600&lines=DevOps+Engineer+%7C+AWS+Cloud+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+with+Jenkins;Open+to+DevOps+Opportunities+🚀" />
 </p>
 
----
-
-### 🟢 Current Status
-
-text
-⚡  Building    →  aws-two-tier-vpc with Terraform + Ansible
-📖  Learning    →  Kubernetes & advanced CI/CD patterns  
-🏢  Working @   →  GXO Logistics · Systems Operations · Bangalore
-🎯  Goal        →  DevOps Engineer / Cloud Engineer role · available now
-🌐  Portfolio   →  megha.sre
-
-
----
-
-### 🛠️ Tech Stack
-
-*Cloud & Infrastructure*  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-*CI/CD & Monitoring*  
-![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white)
-
-*Languages & Tools*  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Proficiency
-
-text
-AWS / Cloud          ████████████████████  90%
-Linux / Bash         █████████████████░░░  88%
-Docker / CI-CD       █████████████████░░░  85%
-Terraform / IaC      ████████████████░░░░  80%
-Ansible              ███████████████░░░░░  78%
-Splunk / Monitoring  ███████████████░░░░░  75%
-Python / Scripting   ██████████████░░░░░░  72%
-Kubernetes           ████████████░░░░░░░░  60%
-
-
----
-
-### 📌 Featured Projects
-
-| | Project | Description | Stack |
-|:-:|---|---|---|
-| ☁️ | [*aws-two-tier-vpc*](https://github.com/pixelldin/aws-two-tier-vpc) | Two-tier AWS infra — EC2, Route53, ALB, VPC. Fully IaC. | Terraform Ansible AWS |
-| ⚙️ | [*CI-CD-Project*](https://github.com/pixelldin/CI-CD-Project) | Full pipeline: build → test → containerize → deploy | Jenkins Docker GitHub Actions |
-| 🤖 | *Local RAG System* | 100% local LLM — LangChain, ChromaDB, Ollama. No API keys. | LangChain ChromaDB Ollama |
-| 🌐 | [*Portfolio-Latest*](https://github.com/pixelldin/Portfolio-Latest) | Personal portfolio showcasing my DevOps journey | TypeScript |
-
----
-
-### 🏅 Certifications & Achievements
-
-| | |
-|---|---|
-| 🏆 | *AWS Certified Cloud Practitioner* — Amazon Web Services |
-| ⭐ | *Make.com Foundation Certification* — Automation & workflows |
-| 🤖 | Built a *fully local RAG system* — LangChain + ChromaDB + Ollama, zero API keys |
-| 📦 | End-to-end *IaC in production* — Terraform + Ansible provisioning AWS infra |
-
----
-
-### 📈 GitHub Stats
-
-<!-- These use a more stable mirror — less likely to break -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelldin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="155"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelldin&layout=compact&theme=github_dark&hide_border=true" height="155"/>
+  <img src="https://img.shields.io/badge/Experience-2.6%20Years-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/DevOps-Engineer-green?style=flat"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect
+# 👩‍💻 About Me
 
-<p>
-  <a href="https://dineshdi.dev"><img src="https://img.shields.io/badge/🌐 Portfolio-dineshdi.dev-161b22?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://github.com/pixelldin"><img src="https://img.shields.io/badge/GitHub-pixelldin-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></div></a>
-</p>
+DevOps Engineer with 2.6 years of experience in designing, automating, and managing cloud infrastructure.
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:58a6ff,100:0d1117&height=80&section=footer" width="100%"/>
+🔹 Experience in AWS, Terraform, Docker, Kubernetes, Jenkins, Git, Linux, and Ansible.
+
+🔹 Worked on CI/CD automation and cloud infrastructure projects.
+
+🔹 Passionate about Infrastructure as Code (IaC), Containerization, and Cloud Native technologies.
+
+---
+
+# 🚀 Current Status
+
+```text
+⚡ Building   → AWS Infrastructure Automation
+📖 Learning   → Kubernetes & GitOps
+🏢 Company    → Tata Consultancy Services (TCS)
+🎯 Goal       →  DevOps Engineer
+🌍 GitHub     → github.com/Megha-sre
+````
+
+---
+
+# 🛠️ Tech Stack
+
+### Cloud
+
+* AWS (EC2, VPC, IAM, S3, Route53, ALB)
+
+### Infrastructure as Code
+
+* Terraform
+* Ansible
+
+### Containers & Orchestration
+
+* Docker
+* Kubernetes
+* Helm
+
+### CI/CD
+
+* Jenkins
+* GitHub Actions
+
+### Monitoring
+
+* CloudWatch
+* Splunk
+
+### Languages
+
+* Python
+* Bash
+
+### Version Control
+
+* Git
+* GitHub
+
+---
+
+# 📌 Featured Projects
+
+## ☁️ Three Tier Architecture Demo
+
+Repository: three-tier-architecture-demo
+
+* AWS EKS Deployment
+* Microservices Architecture
+* Kubernetes Workloads
+* Production-style Infrastructure
+
+---
+
+## ⚙️ Jenkins Pipeline
+
+Repository: Jenkins-pipeline
+
+* Jenkins Setup
+* Docker Integration
+* Kubernetes Deployment
+* ArgoCD GitOps Workflow
+
+---
+
+## 🚀 Ultimate DevOps AWS Project
+
+Repository: ultimate-devops-project-aws
+
+* End-to-End DevOps Lifecycle
+* AWS Infrastructure
+* Terraform Automation
+* CI/CD Pipeline
+
+---
+
+## 📦 Walmart Helm App
+
+Repository: Walmart-helm-app
+
+* Kubernetes Helm Charts
+* Application Deployment
+* Environment Configuration
+
+---
+
+# 📊 Skills
+
+```text
+AWS                ████████████████████ 90%
+Linux              ██████████████████░░ 88%
+Docker             █████████████████░░░ 85%
+Jenkins            █████████████████░░░ 85%
+Terraform          ████████████████░░░░ 80%
+Ansible            ███████████████░░░░░ 78%
+Kubernetes         ██████████████░░░░░░ 75%
+Python             █████████████░░░░░░░ 70%
+```
+
+---
+
+# 🏆 Certifications
+
+* AWS Cloud Practitioner
+* DevOps & Cloud Engineering Training
+* Terraform & Kubernetes Hands-on Projects
+
+---
+
+# 📈 GitHub Stats
+
+---
+
+# 🤝 Connect With Me
+
+* GitHub: https://github.com/Megha-sre
+* LinkedIn: Add your LinkedIn URL
+* Email: [meghareddymegha687@gmail.com](mailto:meghareddymegha687@gmail.com)
+
+---

@@ -22,7 +22,7 @@ text
 📖  Learning    →  Kubernetes & advanced CI/CD patterns  
 🏢  Working @   →  GXO Logistics · Systems Operations · Bangalore
 🎯  Goal        →  DevOps Engineer / Cloud Engineer role · available now
-🌐  Portfolio   →  dineshdi.dev
+🌐  Portfolio   →  megha.sre
 
 
 ---

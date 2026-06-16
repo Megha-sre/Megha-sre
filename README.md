@@ -1,20 +1,4 @@
-````markdown
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:3fb950&height=130&section=header&text=Hi%2C%20I'm%20Meghana%20👋&fontColor=e6edf3&fontSize=32&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3FB950&center=true&width=600&lines=DevOps+Engineer+%7C+AWS+Cloud+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+with+Jenkins;Open+to+DevOps+Opportunities+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.6%20Years-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/DevOps-Engineer-green?style=flat"/>
-</p>
-
----
-
-# 👩‍💻 About Me
+👩‍💻 About Me
 
 DevOps Engineer with 2.6 years of experience in designing, automating, and managing cloud infrastructure.
 
@@ -136,16 +120,6 @@ Python             █████████████░░░░░░░ 
 ```
 
 ---
-
-# 🏆 Certifications
-
-* AWS Cloud Practitioner
-* DevOps & Cloud Engineering Training
-* Terraform & Kubernetes Hands-on Projects
-
----
-
-# 📈 GitHub Stats
 
 ---
 
